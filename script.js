@@ -163,5 +163,5 @@ form.addEventListener('input', debounce(function (e) {
     }
 }));
 document.getElementById("mybutton").onclick = function () {
-    window.location.href = "file:///C:/Users/Hp/OneDrive%20-%20Ecole%20Marocaine%20des%20Sciences%20de%20l'Ing%C3%A9nieur/Bureau/project/store.html#";
+    window.location.href = "index.html";
 };
